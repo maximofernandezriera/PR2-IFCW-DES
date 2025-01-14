@@ -22,9 +22,11 @@ Desarrollar una aplicación sencilla utilizando Laravel para gestionar los gasto
 
 #  REQUISITOS MÍNIMOS ESPECÍFICOS DE LARAVEL
 
-## Rutas y controladores:
+## Modelos, rutas y controladores:
 
-Define rutas para listar, agregar, editar y eliminar gastos.
+- Define los modelos que un usuario pueda listar, agregar, editar y eliminar gastos.
+
+- Define rutas para listar, agregar, editar y eliminar gastos.
 
 * Implementa controladores correspondientes para manejar las acciones de cada ruta.
 
