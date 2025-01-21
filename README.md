@@ -51,4 +51,4 @@ Podéis tomar como referencia este proyecto visto en clase:
 
 - [Todo list project](https://github.com/maximofernandezriera/todo-list-sqlite)
 
-# FECHA DE ENTREGA: 26-01-2025
+# FECHA DE ENTREGA: 02-02-2025
